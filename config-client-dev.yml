@@ -1,3 +1,4 @@
 info:
   profile: dev
-from: git-dev-test-3.0
+from: 
+  from: git-dev-test-3.0
